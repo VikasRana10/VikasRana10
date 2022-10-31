@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Rana</h1>
 <h3 align="center">Tech Enthusiast || 3⭐CodeChef(Highest Rating 1660) || 2.4k Rank @hashcode 22 || Front-end Developer || Learning DSA & Problem Solving Skills || CSE Student</h3>
+[![@vikasrana65's Holopin board](https://holopin.me/vikasrana65)](https://holopin.io/@vikasrana65)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrana10&label=Profile%20views&color=0e75b6&style=flat" alt="vikasrana10" /> </p>
 
