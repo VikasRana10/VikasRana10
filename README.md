@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vikasrana_vr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vikasrana_vr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vikas rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas rana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikas-rana-70ab72211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas rana" height="30" width="40" /></a>
 <a href="https://instagram.com/vikasrana.vr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikasrana.vr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vikas rana_165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vikas rana_165" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vikasrana10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vikasrana10" height="30" width="40" /></a>
