@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Rana</h1>
 <h3 align="center">Tech Enthusiast || 3⭐CodeChef(Highest Rating 1660) || 2.4k Rank @hashcode 22 || Front-end Developer || Learning DSA & Problem Solving Skills || CSE Student</h3>
-<p align="left" height="50" width="50"> <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="vikasrana10" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrana10&label=Profile%20views&color=0e75b6&style=flat" alt="vikasrana10" /> </p>
 
